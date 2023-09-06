@@ -6,7 +6,7 @@ This project, implemented in the field of Networking, is a comprehensive network
 
 ## Conclusion
 
-This Networking project successfully addressed the complex requirements of an educational institution spanning multiple branches. It showcased the developer's proficiency in network design, topology selection, hardware and software considerations, server selection, implementation, and rigorous testing.
+This outreach project has successfully addressed the complex requirements of an educational institution spanning multiple fields. I demonstrate this with my proficiency as a developer in network design, topology selection, hardware and software considerations, server selection, implementation, and rigorous testing.
 
 Furthermore, the project highlighted the ability to recommend enhancements for networked systems and design maintenance schedules to support ongoing system stability. The application of critical reflection and justification of conclusions further underscored the comprehensive understanding and expertise demonstrated throughout the project.
 
