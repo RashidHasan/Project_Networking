@@ -3,7 +3,6 @@
 ## Overview
 
 This project, implemented in the field of Networking, is a comprehensive network design and development initiative for an educational institution comprising two branches: the main branch located in Amman and a secondary branch situated in the city of Karak, approximately 150 kilometers away.
-Main Branch Network
 
 ## Conclusion
 
