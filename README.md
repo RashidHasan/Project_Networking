@@ -1,11 +1,11 @@
-#Educational Institution Network Project
+# Educational Institution Network Project
 
-##Overview
+## Overview
 
 This project, implemented in the field of Networking, is a comprehensive network design and development initiative for an educational institution comprising two branches: the main branch located in Amman and a secondary branch situated in the city of Karak, approximately 150 kilometers away.
 Main Branch Network
 
-##Conclusion
+## Conclusion
 
 This Networking project successfully addressed the complex requirements of an educational institution spanning multiple branches. It showcased the developer's proficiency in network design, topology selection, hardware and software considerations, server selection, implementation, and rigorous testing.
 
