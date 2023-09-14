@@ -11,3 +11,15 @@ This outreach project has successfully addressed the complex requirements of an 
 Furthermore, the project highlighted the ability to recommend enhancements for networked systems and design maintenance schedules to support ongoing system stability. The application of critical reflection and justification of conclusions further underscored the comprehensive understanding and expertise demonstrated throughout the project.
 
 The successful completion of this project, in accordance with the objectives of the Networking course, marks a significant achievement in the field of networking and network design.
+
+# Ownership Notice
+
+This project, including all associated code, content, and assets, belongs to Rasheed Hassan. All rights reserved for this project. Unauthorized use, distribution, or reproduction of any part of this project is strictly prohibited, and the projects are provided solely for the purpose of providing benefits and compiling my experiences.
+
+By accessing or using this project, you agree to respect the proprietary rights of "Rashid Hassan". Any use outside the scope of the license or permission granted is subject to legal action.
+
+For inquiries or to request cooperation, please contact me via my email on the home page.
+
+Thank you for your understanding and cooperation.
+
+Rashid Hassan.
